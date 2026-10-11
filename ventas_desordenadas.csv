@@ -1,0 +1,7 @@
+Fecha,ID_Cliente,Producto,Cantidad,Precio_Unitario,Estado_Pago
+2026-09-01,CL-101,  Laptop Pro  ,2,$1200.00,Completado
+2026-09-01,CL-102,Monitor 4K,N/A,$350.00,Pendiente
+2026-09-02,CL-101,  Laptop Pro  ,2,$1200.00,Completado
+2026-09-02,CL-103,Teclado Mecanico,5,$85.00,Completado
+2026-09-03,CL-104,Mouse Inalambrico,-1,$25.00,Cancelado
+2026-09-03,CL-105,Silla Ergonomica,1,$250.00,Completado
